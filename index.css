@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgba(25, 168, 237, 0.8);
+    color: #333;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+div#interface {
+    background-color: rgba(196, 238, 255, 0.8);
+    width: 780px;
+    margin: 5px auto 0px auto;
+    padding: 0px 15px 0px 15px;
+}
+
+img {
+    width: 55%;
+}
+
+footer {
+    width: 100%;
+    border-top: 1px solid #333;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+header {
+    border-bottom: 1px solid #333;
+    text-align: center;
+    padding: 0px 0px 10px 0px;
+    font-family: Courier New;
+    padding-top: 3px;
+    color: blue;
+}
+
+header h1 {
+    font-size: 30pt;
+    margin-bottom: 0px;
+}
+
+header h2 {
+    font-size: 10pt;
+    margin-top: 0px;
+}
+
+
+
+
+
+
